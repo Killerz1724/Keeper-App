@@ -1,0 +1,5 @@
+node_modules
+secrets.txt
+vite.config.js
+package.json
+package-lock.json
